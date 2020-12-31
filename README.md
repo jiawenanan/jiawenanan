@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+![image](https://github.com/jiawenanan/mango/blob/master/doge.jpeg)
+        
+
 Hi, I am Jiawen Zhang
 
 - 🔭 I’m currently studying at RPI in Information Technology major 
