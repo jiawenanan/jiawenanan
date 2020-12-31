@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**jiawenanan/jiawenanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi, I am Jiawen Zhang
 
 - 🔭 I’m currently studying at RPI in Information Technology major 
@@ -11,3 +7,6 @@ Hi, I am Jiawen Zhang
 
 
 to be continued....
+
+<!--
+**jiawenanan/jiawenanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
